@@ -45,5 +45,6 @@ todo-list-app/
 ```
 
 ## Author
+Nisal Thenula.
 
 Your Name
